@@ -25,12 +25,8 @@ img {
 /* Style rules for mobile viewport */
 
 /* Hide tab-desk class */
-.tab-desk {
+.tab-desk, #menu-links {
     display: none;
-}
-
-#menu-links {
-  display: none;
 }
 
 /* Style rules for header content */
