@@ -248,7 +248,7 @@ footer a {
     }
 
     /* Tablet Viewport: Style rule for header content */
-    h1 {
+    header h1 {
       margin: 0;
       padding: 0;
       font-size: 2em;
@@ -323,7 +323,7 @@ footer a {
     nav li a:hover {
         color: #373684;
         background-color: #e5e9fc;
-        transform: scale(1.25);
+        transform: scale(1.2);
     }
 
     /* Desktop Viewport: Style Rules for main content */
